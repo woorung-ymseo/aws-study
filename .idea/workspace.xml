@@ -4,48 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41463d4e-2a72-4b7f-9b33-3efd0489defd" name="Changes" comment="7장">
-      <change afterPath="$PROJECT_DIR$/chapter8/8장.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/img/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/9장.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/img/img_8.png" afterDir="false" />
+    <list default="true" id="41463d4e-2a72-4b7f-9b33-3efd0489defd" name="Changes" comment="8장, 9장">
+      <change afterPath="$PROJECT_DIR$/chapter10/10장.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/11장.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/img/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/12장.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/img/img_8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/img_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/인터뷰_전시_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/인터뷰_전시_2.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +85,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter12/img" />
+      <recent name="$PROJECT_DIR$/chapter11/img" />
       <recent name="$PROJECT_DIR$/chapter9/img" />
       <recent name="$PROJECT_DIR$/chapter8/img" />
       <recent name="$PROJECT_DIR$/chapter7/img" />
-      <recent name="$PROJECT_DIR$/chapter6/img" />
-      <recent name="$PROJECT_DIR$/chapter5/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -108,7 +102,8 @@
       <updated>1703142623036</updated>
       <workItem from="1703142624204" duration="11940000" />
       <workItem from="1703318926221" duration="21382000" />
-      <workItem from="1703657006903" duration="26821000" />
+      <workItem from="1703657006903" duration="28062000" />
+      <workItem from="1705501483470" duration="14413000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -142,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703751425935</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="8장, 9장">
+      <option name="closed" value="true" />
+      <created>1704616712201</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704616712201</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="7장" />
-    <option name="LAST_COMMIT_MESSAGE" value="7장" />
+    <MESSAGE value="8장, 9장" />
+    <option name="LAST_COMMIT_MESSAGE" value="8장, 9장" />
   </component>
 </project>
